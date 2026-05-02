@@ -46,5 +46,3 @@ The entire automation is implemented in a single script (`main.py`), where diffe
 - **Selenium WebDriver**
 
 ---
-
-## **📂 Project Structure**
